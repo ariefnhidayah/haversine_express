@@ -16,7 +16,7 @@ Running this script for development
 ```
 npm run dev
 ```
-After that, this project running in port 3000
+After that, this project will run on port 3000
 
 Running this script for build this project
 ```
