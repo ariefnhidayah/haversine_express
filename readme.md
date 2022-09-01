@@ -16,6 +16,7 @@ Running this script for development
 ```
 npm run dev
 ```
+After that, you can use http://localhost:3000 for api endpoint in this project
 
 Running this script for build this project
 ```
