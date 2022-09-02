@@ -22,3 +22,13 @@ Running this script for build this project
 ```
 npm run build
 ```
+## API Documentation
+### Calculate Distance
+```http
+  GET /search/calculate-distance
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `from` | `string` | **Required**. From Full Address |
+| `to` | `string` | **Required**. To Full Address |
