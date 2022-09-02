@@ -24,7 +24,7 @@ npm run build
 ```
 ## API Documentation
 ### Calculate Distance
-```http
+```
   GET /search/calculate-distance
 ```
 
